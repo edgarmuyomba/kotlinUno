@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="title_1">A painting of a castle on a white hill</string>
+    <string name="artist_1">Birmingham Museums Trust</string>
+    <string name="title_2">Green and white floral textile</string>
+    <string name="artist_2">Birmingham Museums Trust</string>
+    <string name="title_3">Brown and black bird on a green plant</string>
+    <string name="artist_3">Birmingham Museums Trust</string>
+    <string name="title_4">Blue and white floral</string>
+    <string name="artist_4">Birmingham Museums Trust</string>
+    <string name="title_5">A painting of a person riding a bike down a road</string>
+    <string name="artist_5">Birmingham Museums Trust</string>
+</resources>
